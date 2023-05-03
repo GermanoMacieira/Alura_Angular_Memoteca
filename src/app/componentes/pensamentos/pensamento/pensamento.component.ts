@@ -8,7 +8,7 @@ import { Component, Input, OnInit } from '@angular/core';
 export class PensamentoComponent implements OnInit {
 
   @Input() pensamento = {
-    conteudo: 'Dados do componente filho',
+    conteudo: 'Dados do comp filho',
     autoria: 'Descartes',
     modelo: 'modelo3'
   }
@@ -16,6 +16,14 @@ export class PensamentoComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  larguraPensamento(): string {
+    if(this.pensamento.conteudo.length >= 256) {
+      return 'pensamento-g'
+    }
+
+    return 'pensamento-p'
   }
 
 }
