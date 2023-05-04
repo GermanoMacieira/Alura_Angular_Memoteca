@@ -1,0 +1,23 @@
+
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Germano",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Front com Angular é show de bola!",
+      "autoria": "Dev",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Estudar Angular é muito bom demais!",
+      "autoria": "Programador",
+      "modelo": "modelo3"
+    }
+  ]
+}
