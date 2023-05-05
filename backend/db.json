@@ -1,4 +1,3 @@
-
 {
   "pensamentos": [
     {
@@ -18,6 +17,12 @@
       "conteudo": "Estudar Angular é muito bom demais!",
       "autoria": "Programador",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Evoluir significa adestrar a mente, através das reencarnações, através dos estágios espirituais que desenvolvem e amplia conceitos para fixá-los depois operando eles na prática.",
+      "autoria": "Wagner Paixão",
+      "modelo": "modelo3",
+      "id": 4
     }
   ]
 }
