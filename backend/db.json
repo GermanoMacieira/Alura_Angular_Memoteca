@@ -2,20 +2,20 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que você veio",
-      "autoria": "Germano",
+      "conteudo": "Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!",
+      "autoria": "Mario Sergio Cortella",
       "modelo": "modelo1"
     },
     {
       "id": 2,
-      "conteudo": "Front com Angular é show de bola!",
-      "autoria": "Dev",
+      "conteudo": "Coragem é preparo e não mera disposição eufórica",
+      "autoria": "Mario Sergio Cortella",
       "modelo": "modelo2"
     },
     {
       "id": 3,
-      "conteudo": "Estudar Angular é muito bom demais!",
-      "autoria": "Programador",
+      "conteudo": "O conhecimento serve para encantar pessoas, não para humilhá-las.",
+      "autoria": "Mario Sergio Cortella",
       "modelo": "modelo3"
     },
     {
