@@ -7,28 +7,34 @@
       "modelo": "modelo1"
     },
     {
-      "id": 2,
-      "conteudo": "Coragem é preparo e não mera disposição eufórica",
-      "autoria": "Mario Sergio Cortella",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
       "conteudo": "O conhecimento serve para encantar pessoas, não para humilhá-las.",
       "autoria": "Mario Sergio Cortella",
-      "modelo": "modelo3"
+      "modelo": "modelo2",
+      "id": 2
+    },
+    {
+      "conteudo": "Coragem é preparo e não mera disposição eufórica",
+      "autoria": "Mario Sergio Cortella",
+      "modelo": "modelo3",
+      "id": 3
     },
     {
       "conteudo": "Evoluir significa adestrar a mente, através das reencarnações, através dos estágios espirituais que desenvolvem e amplia conceitos para fixá-los depois operando eles na prática.",
       "autoria": "Wagner Paixão",
-      "modelo": "modelo3",
+      "modelo": "modelo1",
       "id": 4
     },
     {
-      "conteudo": "Testando a função de Editar.",
-      "autoria": "Dev",
-      "modelo": "modelo2",
+      "conteudo": "A lei de ouro do comportamento é a tolerância mútua, já que nunca pensaremos todos da mesma maneira, já que nunca veremos senão uma parte da verdade e sob ângulos diversos.",
+      "autoria": "Mahatma Gandhi",
+      "modelo": "modelo1",
       "id": 5
+    },
+    {
+      "conteudo": "Os fracos nunca podem perdoar.",
+      "autoria": "Mahatma Gandhi",
+      "modelo": "modelo1",
+      "id": 6
     }
   ]
 }

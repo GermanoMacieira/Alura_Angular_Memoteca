@@ -36,7 +36,7 @@ export class EditarPensamentoComponent implements OnInit {
     })
   }
 
-  cancelarPensamento() {
+  cancelar() {
     this.router.navigate(['/listarPensamento'])
   }
 
