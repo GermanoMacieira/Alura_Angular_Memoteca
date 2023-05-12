@@ -16,3 +16,11 @@
   text-align: center;
   padding: 2rem 0 5rem;
 }
+
+button {
+  background: #382AF4;
+}
+
+.mural {
+  color: #382AF4;
+}
